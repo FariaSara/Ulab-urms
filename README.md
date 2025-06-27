@@ -1,4 +1,3 @@
-Ulabook
 The ULABBOOK Project appears to be a comprehensive system designed to manage university
 resources. this project likely serves as a digital platform to streamline laboratory operations,
 resource allocation, and potentially student access to facilities
